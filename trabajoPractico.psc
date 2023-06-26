@@ -1,14 +1,14 @@
-//La Ferretería "El Tornillo Loco" cuenta con N artículos, de los cuales se conoce su código, descripción, precio de venta, cantidad
+//La FerreterÃ­a "El Tornillo Loco" cuenta con N artÃ­culos, de los cuales se conoce su cÃ³digo, descripciÃ³n, precio de venta, cantidad
 //existente, cantidad vendida por quincena.
-//Al iniciarse el sistema se debe realizar la carga manual de artículos. El sistema debe pedirle al usuario que ingrese la cantidad de N
-//artículos que posee la ferretería y luego le pedirá al usuario que ingrese los datos de los mismos. El sistema va a procesar la información
+//Al iniciarse el sistema se debe realizar la carga manual de artÃ­culos. El sistema debe pedirle al usuario que ingrese la cantidad de N
+//artÃ­culos que posee la ferreterÃ­a y luego le pedirÃ¡ al usuario que ingrese los datos de los mismos. El sistema va a procesar la informaciÃ³n
 //por mes teniendo en cuenta lo vendido en cada una de las quincenas del mes.
-//Una vez finalizada ésta carga, mostrar la siguiente opción de menú que debe repetirse hasta tanto el usuario presione la opción para salir
-//	1. Mostrar lista de artículos ordenada por descripción
-//	2. Mostrar lista de artículos ordenada por cantidad vendida
-//	3. Mostrar stock actual de artículos
-//	4. Buscar artículo por código
-//	5. Mostrar estadísticas
+//Una vez finalizada Ã©sta carga, mostrar la siguiente opciÃ³n de menÃº que debe repetirse hasta tanto el usuario presione la opciÃ³n para salir
+//	1. Mostrar lista de artÃ­culos ordenada por descripciÃ³n
+//	2. Mostrar lista de artÃ­culos ordenada por cantidad vendida
+//	3. Mostrar stock actual de artÃ­culos
+//	4. Buscar artÃ­culo por cÃ³digo
+//	5. Mostrar estadÃ­sticas
 //6. Salir 
 
 
@@ -66,4 +66,4 @@ Funcion retorno<-validarCodigo(productos,n,codigo Por Referencia, rubro Por Refe
 	Fin Para
 	
 FinFuncion
-	
+	hola putas
