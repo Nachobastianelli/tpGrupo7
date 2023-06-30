@@ -66,4 +66,4 @@ Funcion retorno<-validarCodigo(productos,n,codigo Por Referencia, rubro Por Refe
 	Fin Para
 	
 FinFuncion
-	hola putas
+	
